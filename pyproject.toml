@@ -1,0 +1,12 @@
+[project]
+name = "python-cs50"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.25",
+    "langgraph>=0.4.5",
+    "openai>=1.79.0",
+    "python-dotenv>=1.1.0",
+]
